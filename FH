@@ -1,1 +1,2 @@
 SYSTEM.OUT.PRINTLN(CARTERA);
+SYSTEM.OUT.PRINTLN("");  // Robar cartera
